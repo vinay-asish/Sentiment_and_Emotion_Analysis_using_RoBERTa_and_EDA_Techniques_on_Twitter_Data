@@ -3,7 +3,11 @@
 # 🧠 Sentiment and Emotion Analysis on Twitter using RoBERTa and Traditional Models
 
 This repository presents a complete pipeline for analyzing public sentiment and emotions from Twitter data. We apply both traditional machine learning models (e.g., Logistic Regression, SVM) and transformer-based NLP models (e.g., RoBERTa) to classify tweets based on sentiment (Negative, Neutral, Positive) and emotion (Joy, Sadness, Anger, Optimism).
+## 📂 Dataset Source
 
+This project uses the publicly available Twitter dataset related to the Ukraine–Russia crisis:
+
+🔗 [Ukraine-Russian Crisis Twitter Dataset (1.2M Tweets) — Kaggle](https://www.kaggle.com/datasets/bwandowando/ukraine-russian-crisis-twitter-dataset-1-2-m-rows/data)
 ---
 
 ## 📌 Project Objectives
